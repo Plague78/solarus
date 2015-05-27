@@ -5,6 +5,7 @@ set(lua_test_maps
   "surface_tests"
   "all_entities"
   "bugs/686_crash_door_item"
+  "bugs/690_crash_remove_entity"
   "bugs/699_crash_exit_surface_moving"
 )
 
